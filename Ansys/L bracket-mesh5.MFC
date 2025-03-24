@@ -1,0 +1,16 @@
+[StartTime]
+L bracket-mesh5.MFC=3s
+[SolverState]
+L bracket-mesh5.MFC=2
+[MainFrame]
+L bracket-mesh5.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+L bracket-mesh5.MFC=No
+[SolverType]
+L bracket-mesh5.MFC=Linear Analysis
+[StudyType]
+L bracket-mesh5.MFC=0
+[StudyName]
+L bracket-mesh5.MFC=mesh5
+[Solver]
+L bracket-mesh5.MFC=Iterative
